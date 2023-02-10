@@ -1,0 +1,108 @@
+
+
+
+.name, .avartar img{
+    position:absolute;
+}
+
+.avartar img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 40px;
+    z-index: 1;
+
+
+
+}
+.name{
+    display: block;
+    background-color: rgb(244, 173, 42);
+    width: 70%;
+    padding: 10px;
+    border-radius: 0 50px 50px 0;
+    margin-top: 30px;
+    padding-right: 20px;
+}
+
+.name p{
+    float: right;
+    margin-top: 80px;
+    display: block;
+}
+
+.name h1{
+    float: right;
+    margin-right: 84px;
+}
+
+i{
+    border-radius: 50%;
+    background-color: orange;
+
+}
+
+
+
+
+
+.left-web{
+    display: inline-block;
+    width: 40%;
+    background-color: #000;
+    padding-top: 200px;
+    
+   
+}
+    
+
+
+.content-first{
+    color: #fff;
+    margin-left: 70px;
+}
+
+.content {
+    display: inline-block;
+    height: 46px;
+    border-bottom: 2px solid orange;
+}
+
+.content .text li:hover{
+    color: #fff;
+    background-color: #ccc;
+}
+
+.content-after .text p{
+    color: yellow;
+}
+
+
+.text{
+    display: inline-block;
+}
+h2{
+    margin-left: 50px;
+}
+
+.material-icons{
+    float: left;
+    margin-top: 25px;
+    margin-left: 12px;
+}
+
+
+.right-web{
+    
+    background-color: #fff;    
+    padding-top: 200px;
+    float: right;
+    
+    display: inline-block;
+   
+    width: 60%;
+    height: 573.08px
+    
+}
+
+
